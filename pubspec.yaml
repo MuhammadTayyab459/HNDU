@@ -31,6 +31,8 @@ dependencies:
   flutter_screenutil: 
   flutter_pin_code_fields: ^1.1.0
   font_awesome_flutter:
+  page_transition: 
+  steppers: ^0.0.1
 dev_dependencies:
   flutter_test:
     sdk: flutter

@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
 import 'package:screens/screens/insights.dart';
+import 'package:screens/screens/page1.dart';
 import 'screens/verify code.dart';
 
 void main() {
