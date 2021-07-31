@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
-import 'verify code.dart';
+import 'package:screens/screens/insights.dart';
+import 'screens/verify code.dart';
 
 void main() {
   runApp(MyApp());
@@ -15,9 +16,9 @@ class MyApp extends StatelessWidget {
         debugShowCheckedModeBanner: false,
         title: 'HNDU',
         theme: ThemeData(primarySwatch: Colors.blue),
-        home: Verify_Code(),
+        home: Insights(),
       ),
-      designSize: const Size(428, 926),
+      designSize: const Size(390, 844),
     );
   }
 }

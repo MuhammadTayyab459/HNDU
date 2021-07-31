@@ -3,6 +3,7 @@ import 'package:flutter_screenutil/flutter_screenutil.dart';
 
 import 'package:flutter_pin_code_fields/flutter_pin_code_fields.dart';
 
+// ignore: camel_case_types
 class Verify_Code extends StatefulWidget {
   const Verify_Code({Key key}) : super(key: key);
 
